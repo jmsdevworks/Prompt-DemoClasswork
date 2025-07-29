@@ -1,5 +1,4 @@
-# Prompt-DemoClasswork
-Demo of zero shot and few shot prompts 
+
 # Prompt-DemoClasswork
 
 This repository contains classwork and reference materials related to **Prompt Engineering** for large language models (LLMs), including examples of zero-shot and few-shot prompting strategies. These notebooks were originally provided as part of a learning module or educational program and are stored here for personal study and reference.
